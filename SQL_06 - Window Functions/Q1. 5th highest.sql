@@ -1,14 +1,12 @@
 Q1. 5th highest
 
 Problem Statement:
-
 Show the details of the employees who have the 5th highest salary in each job category.
+* Return the columns 'employee_id', 'first_name', 'job_id'.
 
-Return the columns 'employee_id', 'first_name', 'job_id'.
 Note:
-
-Select MySQL 8.0 in the drop-down.
-Use the employees table.
+1. Select MySQL 8.0 in the drop-down.
+2. Use the employees table.
 (NOTE: HR Dataset used)
 
 # Solution
