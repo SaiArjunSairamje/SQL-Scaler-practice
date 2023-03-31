@@ -2,9 +2,9 @@ Q1. Gender
 (LeetCode: 2308. Arrange Table by Gender)
 
 Problem Description :
-Write a query to reorder the entries of the genders table so that "female," "other," and "male" appear in that order in alternating rows.
+Write a query to reorder the entries of the genders table so that "female", "other", and "male" appear in that order in alternating rows.
 The table should be rearranged such that the IDs of each gender are sorted in ascending order.
-* Return the column's user_id and gender.
+* Return the columns user_id and gender.
 
 Sample Input:
 
